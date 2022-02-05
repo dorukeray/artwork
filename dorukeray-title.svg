@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="440mm"
+   height="120mm"
+   viewBox="0 0 440 120"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="dorukeray-title.svg"
+   inkscape:export-filename="/home/dorkodu/code/doruk.dorkodu.com/images/dorukeray-title.png"
+   inkscape:export-xdpi="34.636364"
+   inkscape:export-ydpi="34.636364">
+  <defs
+     id="defs2">
+    <rect
+       x="85.435394"
+       y="-187.13951"
+       width="25.910975"
+       height="42.449116"
+       id="rect845" />
+    <rect
+       x="68.906532"
+       y="130.97946"
+       width="123.63076"
+       height="88.903137"
+       id="rect839" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32052105"
+     inkscape:cx="764.62764"
+     inkscape:cy="274.85007"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:92.6042px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="7.1289167"
+       y="85.350273"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="7.1289167"
+         y="85.350273"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.6042px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';stroke-width:0.264583"><tspan
+           style="font-size:92.6042px;fill:#1c2224"
+           id="tspan849"><tspan
+   style="letter-spacing:-2.11667px"
+   id="tspan960">do</tspan>r<tspan
+   style="letter-spacing:0.529167px"
+   id="tspan962">u</tspan><tspan
+   style="letter-spacing:2.11667px"
+   id="tspan984">k</tspan></tspan><tspan
+           style="font-size:92.6042px;fill:#b7c4c8"
+           id="tspan851">eray</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text837"
+       style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect839);" />
+    <text
+       xml:space="preserve"
+       id="text843"
+       style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect845);" />
+  </g>
+</svg>
