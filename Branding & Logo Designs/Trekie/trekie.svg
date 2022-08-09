@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="trekie.svg"
+   inkscape:export-filename="/home/doruk/GitHub/artwork/Branding &amp; Logo Designs/Trekie/trekie.png"
+   inkscape:export-xdpi="288"
+   inkscape:export-ydpi="288"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="83.085047"
-     inkscape:cy="58.86664"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="82.377941"
+     inkscape:cy="53.828504"
      inkscape:window-width="1920"
      inkscape:window-height="947"
      inkscape:window-x="0"
@@ -52,7 +55,7 @@
          offset="0"
          id="stop3347" />
       <stop
-         style="stop-color:#b1e996;stop-opacity:1"
+         style="stop-color:#ccf0a8;stop-opacity:1"
          offset="0.99989998"
          id="stop9214" />
     </linearGradient>
@@ -60,20 +63,20 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3351"
        id="linearGradient3353"
-       x1="9.083931"
-       y1="18.819527"
-       x2="22.999443"
-       y2="10.785402"
+       x1="9.007309"
+       y1="18.863766"
+       x2="23.601891"
+       y2="10.43758"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.4502264,0,0,1.4502264,-9.4852063,-5.5642687)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient15455"
        id="linearGradient15457"
-       x1="11.156026"
-       y1="15.205017"
-       x2="19.745687"
-       y2="10.245774"
+       x1="11.166384"
+       y1="14.433325"
+       x2="19.084641"
+       y2="9.8617172"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5700553,0,0,1.5700553,-11.096072,27.641073)" />
     <linearGradient
@@ -100,14 +103,15 @@
        height="24.904881"
        x="0.83692044"
        y="0.78623343"
-       rx="3.7666094"
-       ry="3.7666094"
+       rx="5.5150232"
+       ry="5.5150232"
        inkscape:export-filename="/home/doruk/GitHub/artwork/Branding &amp; Logo Designs/Trekie/trekie-icon.png"
        inkscape:export-xdpi="509.94275"
-       inkscape:export-ydpi="509.94275" />
+       inkscape:export-ydpi="509.94275"
+       inkscape:label="rect16911" />
     <g
        id="g39580"
-       transform="matrix(1.1534045,0,0,1.1534045,-1.7675463,-41.730422)"
+       transform="matrix(1.1746511,0,0,1.1746511,-2.2182541,-42.795869)"
        inkscape:export-filename="/home/doruk/GitHub/artwork/Branding &amp; Logo Designs/Trekie/trekie-icon.png"
        inkscape:export-xdpi="509.94275"
        inkscape:export-ydpi="509.94275">
@@ -117,7 +121,7 @@
            fill="#ffcc4d"
            d="m 20.626056,47.563938 c 0,4.129594 -3.347795,7.47739 -7.477389,7.47739 -4.1295962,0 -7.4773892,-3.347796 -7.4773892,-7.47739 0,-4.129598 3.347793,-7.477393 7.4773892,-7.477393 4.129594,0 7.477389,3.347795 7.477389,7.477393"
            id="path29"
-           style="fill:url(#linearGradient15457);fill-opacity:1;stroke:#ffffff;stroke-width:0.57348338;stroke-dasharray:none;stroke-opacity:1;stroke-miterlimit:4" />
+           style="fill:url(#linearGradient15457);fill-opacity:1;stroke:#ffffff;stroke-width:0.573483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            fill="#664500"
            d="m 13.148667,48.810169 c -1.505034,0 -2.503679,-0.175304 -3.7386946,-0.415409 -0.2820637,-0.05442 -0.8308217,0 -0.8308217,0.830818 0,1.661643 1.9088123,3.738695 4.5695163,3.738695 2.660287,0 4.569514,-2.077052 4.569514,-3.738695 0,-0.830818 -0.548757,-0.885656 -0.83082,-0.830818 -1.235017,0.240105 -2.233663,0.415409 -3.738694,0.415409 z"
@@ -133,7 +137,7 @@
            fill="#e95f28"
            d="M 12.185746,41.919753 10.29895,42.252497 9.3268897,40.485754 c -0.107172,-0.194827 -0.3273425,-0.299096 -0.5450183,-0.260877 -0.218922,0.03863 -0.3892401,0.212274 -0.423304,0.431611 l -0.3094798,1.992726 -1.8867953,0.332744 c -0.2222445,0.03905 -0.393809,0.218091 -0.4241333,0.441997 -0.030317,0.223906 0.087656,0.441581 0.2920335,0.538788 l 1.6907206,0.802574 -0.3107266,1.998956 c -0.03448,0.222658 0.07852,0.441996 0.2795701,0.543771 0.074358,0.0374 0.154117,0.05527 0.233461,0.05527 0.1358412,0 0.2700167,-0.05316 0.3701313,-0.154523 l 1.458922,-1.479278 1.8768231,0.891053 c 0.203552,0.09637 0.44615,0.05109 0.600684,-0.112997 0.154539,-0.164089 0.185272,-0.408764 0.07685,-0.606082 l -0.975377,-1.772987 1.31477,-1.332639 c 0.158692,-0.160765 0.194831,-0.405858 0.09015,-0.606086 -0.105505,-0.200228 -0.329422,-0.30865 -0.550419,-0.270017 z m 1.92584,0 1.886795,0.332744 0.972061,-1.766743 c 0.10717,-0.194827 0.327342,-0.299096 0.545019,-0.260877 0.218507,0.03863 0.388823,0.212274 0.422888,0.431611 l 0.30948,1.992726 1.886795,0.332744 c 0.22266,0.03905 0.394226,0.217675 0.424134,0.441581 0.02991,0.223908 -0.08766,0.441582 -0.292034,0.538787 l -1.69072,0.802575 0.310726,1.998955 c 0.03449,0.222662 -0.07852,0.441996 -0.27957,0.543775 -0.07436,0.03739 -0.154118,0.05528 -0.233461,0.05528 -0.135842,0 -0.270016,-0.05316 -0.37013,-0.154543 l -1.458924,-1.479279 -1.876826,0.891058 c -0.20355,0.09637 -0.446147,0.05109 -0.600681,-0.112998 -0.154541,-0.164091 -0.185273,-0.408769 -0.07686,-0.606088 l 0.975389,-1.772563 -1.314776,-1.332638 c -0.158686,-0.160764 -0.194826,-0.405857 -0.09014,-0.606085 0.105931,-0.200228 0.329837,-0.30865 0.550833,-0.270017 z"
            id="path35"
-           style="fill:#0da7f2;fill-opacity:1;stroke:#ffffff;stroke-width:0.57348338;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#0da7f2;fill-opacity:1;stroke:#ffffff;stroke-width:0.573483;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="ccccscccccccscccscccccccccccccsccccscccscccccc" />
       </g>
     </g>
