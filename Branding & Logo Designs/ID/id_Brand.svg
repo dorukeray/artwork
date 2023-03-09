@@ -12,13 +12,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs2"><linearGradient
-       id="linearGradient997"><stop
+       id="linearGradient22045"><stop
          style="stop-color:#008040;stop-opacity:1;"
          offset="0.0001"
-         id="stop993" /><stop
+         id="stop22041" /><stop
          style="stop-color:#3df54c;stop-opacity:1;"
          offset="0.99989998"
-         id="stop995" /></linearGradient><style
+         id="stop22043" /></linearGradient><style
        id="style6568">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
        id="style6568-5">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
        id="style6568-9">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
@@ -28,7 +28,7 @@
         fill: none;
       }
     </style><linearGradient
-       xlink:href="#linearGradient997"
+       xlink:href="#linearGradient22045"
        id="linearGradient51942"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.64519054,0,0,0.64519057,88.661826,129.40477)"

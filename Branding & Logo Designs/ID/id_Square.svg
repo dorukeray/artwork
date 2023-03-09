@@ -12,13 +12,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs2"><linearGradient
-       id="linearGradient997"><stop
+       id="linearGradient22051"><stop
          style="stop-color:#008040;stop-opacity:1;"
-         offset="0.0001"
-         id="stop993" /><stop
+         offset="0.0000001"
+         id="stop22047" /><stop
          style="stop-color:#3df54c;stop-opacity:1;"
          offset="0.99989998"
-         id="stop995" /></linearGradient><style
+         id="stop22049" /></linearGradient><style
        id="style6568">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
        id="style6568-5">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
        id="style6568-9">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
@@ -28,14 +28,14 @@
         fill: none;
       }
     </style><linearGradient
-       xlink:href="#linearGradient997"
+       xlink:href="#linearGradient22051"
        id="linearGradient27220"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.64519054,0,0,0.64519057,88.661826,383.68497)"
-       x1="211.29193"
-       y1="762.6239"
-       x2="306.8653"
-       y2="667.05054" /><style
+       x1="204.22639"
+       y1="766.6972"
+       x2="305.95779"
+       y2="664.96582" /><style
        id="style6568-3">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
        id="style6568-5-6">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
        id="style6568-9-1">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><style
