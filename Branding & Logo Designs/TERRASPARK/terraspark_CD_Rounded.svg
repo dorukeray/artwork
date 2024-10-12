@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="999.99994"
+   height="1000.0001"
+   viewBox="0 0 264.58331 264.58335"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2"><linearGradient
+       id="linearGradient328"><stop
+         style="stop-color:#002aff;stop-opacity:1;"
+         offset="0"
+         id="stop328" /><stop
+         style="stop-color:#4cc3ff;stop-opacity:1;"
+         offset="1"
+         id="stop329" /></linearGradient><style
+       id="style6568">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><linearGradient
+       xlink:href="#linearGradient328"
+       id="linearGradient205"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="256"
+       x2="512"
+       y2="256"
+       gradientTransform="matrix(0.37454363,0,0,0.37454363,8410.5625,1758.0847)" /></defs><g
+     id="layer1"
+     transform="translate(-8373.5108,-1722.5722)"><rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5043;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect201"
+       width="257.1907"
+       height="257.1907"
+       x="8377.1191"
+       y="1725.65"
+       rx="51.438133"
+       ry="51.438133" /><circle
+       style="fill:url(#linearGradient205);fill-opacity:1;stroke:none;stroke-width:1.90067;stroke-dasharray:none;stroke-opacity:1"
+       cx="8506.4453"
+       cy="1853.9679"
+       r="95.883171"
+       id="circle201" /><path
+       style="fill:#26d944;fill-opacity:1;stroke:none;stroke-width:1.90067;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8448.9158,1882.7328 c 7.9429,0 14.3824,6.4395 14.3824,14.3825 v 4.7942 c 0,7.9429 6.4396,14.3824 14.3825,14.3824 7.943,0 14.3825,-6.4395 14.3825,-14.3824 v -33.5592 c 0,-7.9429 -6.4395,-14.3824 -14.3825,-14.3824 -7.9429,0 -14.3825,-6.4396 -14.3825,-14.3825 v -4.7942 c 0,-13.2386 10.7322,-23.9708 23.9708,-23.9708 7.943,0 14.3825,-6.4395 14.3825,-14.3824 v -19.1767 c 0,-7.9429 -6.4395,-14.3824 -14.3825,-14.3824 h -10.825 c -37.7952,12.4419 -65.2028,47.7449 -65.862,89.5485 4.0098,17.1488 20.0804,30.3054 38.3338,30.3054 z"
+       id="path201" /><path
+       style="fill:#41d741;fill-opacity:1;stroke:none;stroke-width:1.90067;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8535.2106,1801.2321 c 0,15.8863 12.8787,28.765 28.765,28.765 h 19.1766 c 5.4837,0 10.6082,-1.5342 14.9686,-4.1964 -8.6201,-28.09 -29.7945,-50.6836 -56.9793,-61.2405 -3.7203,4.847 -5.9309,10.9134 -5.9309,17.4953 z"
+       id="path202" /><path
+       style="fill:#72dd3c;fill-opacity:1;stroke:none;stroke-width:1.90067;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8587.9464,1858.762 h -47.9416 c -7.943,0 -14.3825,6.4396 -14.3825,14.3825 0,7.9429 6.4395,14.3825 14.3825,14.3825 7.9429,0 14.3825,6.4395 14.3825,14.3825 v 9.5883 c 0,7.6571 7.3212,14.36 14.9633,14.833 17.0141,-14.8031 28.7515,-35.5078 32.0359,-58.9251 -2.3548,-4.8649 -7.7242,-8.6437 -13.4401,-8.6437 z"
+       id="path203" /><rect
+       style="fill:#000000;fill-opacity:0.536579;stroke:none;stroke-width:0.801379;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect204"
+       width="82.301018"
+       height="82.301018"
+       x="8466.0342"
+       y="1813.7128"
+       rx="41.150509"
+       ry="41.150509" /><rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.350603;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect205"
+       width="36.006699"
+       height="36.006699"
+       x="8489.5479"
+       y="1836.4862"
+       rx="18.003349"
+       ry="18.003349" /></g><style
+     type="text/css"
+     id="style1941">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#000000;}
+</style></svg>

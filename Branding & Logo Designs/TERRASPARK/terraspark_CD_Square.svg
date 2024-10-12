@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="999.99994"
+   height="1000.0001"
+   viewBox="0 0 264.58331 264.58335"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2"><linearGradient
+       id="linearGradient328"><stop
+         style="stop-color:#002aff;stop-opacity:1;"
+         offset="0"
+         id="stop328" /><stop
+         style="stop-color:#4cc3ff;stop-opacity:1;"
+         offset="1"
+         id="stop329" /></linearGradient><style
+       id="style6568">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}</style><linearGradient
+       xlink:href="#linearGradient328"
+       id="linearGradient200"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="256"
+       x2="512"
+       y2="256"
+       gradientTransform="matrix(0.38530946,0,0,0.38530946,8052.2307,1764.0065)" /></defs><g
+     id="layer1"
+     transform="translate(-8018.7481,-1732.0261)"><rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.63651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect188"
+       width="269.97708"
+       height="271.5629"
+       x="8016.7676"
+       y="1729.5812"
+       rx="0"
+       ry="0" /><circle
+       style="fill:url(#linearGradient200);fill-opacity:1;stroke:none;stroke-width:1.9553;stroke-dasharray:none;stroke-opacity:1"
+       cx="8150.8701"
+       cy="1862.6458"
+       r="98.639221"
+       id="circle188" /><path
+       style="fill:#26d944;fill-opacity:1;stroke:none;stroke-width:1.9553;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8091.6864,1892.2375 c 8.1712,0 14.7959,6.6246 14.7959,14.7959 v 4.9319 c 0,8.1713 6.6246,14.7959 14.7959,14.7959 8.1712,0 14.7958,-6.6246 14.7958,-14.7959 v -34.5237 c 0,-8.1713 -6.6246,-14.7959 -14.7958,-14.7959 -8.1713,0 -14.7959,-6.6246 -14.7959,-14.7959 v -4.9319 c 0,-13.6192 11.0406,-24.6598 24.6598,-24.6598 8.1712,0 14.7959,-6.6247 14.7959,-14.7959 v -19.7279 c 0,-8.1712 -6.6247,-14.7958 -14.7959,-14.7958 h -11.1362 c -38.8816,12.7996 -67.077,49.1173 -67.7552,92.1224 4.1252,17.6418 20.6576,31.1766 39.4357,31.1766 z"
+       id="path196" /><path
+       style="fill:#41d741;fill-opacity:1;stroke:none;stroke-width:1.9553;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8180.4617,1808.3941 c 0,16.343 13.2489,29.5918 29.5918,29.5918 h 19.7278 c 5.6413,0 10.9131,-1.5782 15.3989,-4.317 -8.8679,-28.8974 -30.651,-52.1405 -58.6171,-63.0008 -3.8273,4.9863 -6.1014,11.2272 -6.1014,17.9982 z"
+       id="path197" /><path
+       style="fill:#72dd3c;fill-opacity:1;stroke:none;stroke-width:1.9553;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8234.7133,1867.5777 h -49.3197 c -8.1712,0 -14.7958,6.6246 -14.7958,14.7959 0,8.1712 6.6246,14.7958 14.7958,14.7958 8.1713,0 14.7959,6.6247 14.7959,14.7959 v 9.864 c 0,7.8772 7.5317,14.7727 15.3935,15.2594 17.5031,-15.2286 29.5779,-36.5285 32.9567,-60.6188 -2.4224,-5.0048 -7.9462,-8.8922 -13.8264,-8.8922 z"
+       id="path198" /><rect
+       style="fill:#000000;fill-opacity:0.536579;stroke:none;stroke-width:0.824414;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect199"
+       width="84.666664"
+       height="84.666664"
+       x="8109.2969"
+       y="1821.2335"
+       rx="42.333332"
+       ry="42.333332" /><rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.360681;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect200"
+       width="37.041668"
+       height="37.041668"
+       x="8133.4868"
+       y="1844.6615"
+       rx="18.520834"
+       ry="18.520834" /></g><style
+     type="text/css"
+     id="style1941">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#000000;}
+</style></svg>
